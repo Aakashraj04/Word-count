@@ -35,7 +35,7 @@ with open(fname,'r') as f:
         words=line.split()
         nwords+=len(words)
 print("Number of words:",nwords)
-
+```
 ## OUTPUT:
 ![Graph](https://user-images.githubusercontent.com/121117266/214804238-f8fe61b2-0c34-4d98-8fb0-53950863e4b1.jpeg)
 
