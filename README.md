@@ -37,7 +37,8 @@ with open(fname,'r') as f:
 print("Number of words:",nwords)
 ```
 ## OUTPUT:
-![Graph](https://user-images.githubusercontent.com/121117266/214804238-f8fe61b2-0c34-4d98-8fb0-53950863e4b1.jpeg)
+![word count](https://user-images.githubusercontent.com/121117266/214805958-4f012833-cda5-4a8f-a72f-478e2d5901af.jpeg)
+
 
 
 
